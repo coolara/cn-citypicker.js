@@ -2,9 +2,14 @@
 js省市联动菜单(无依赖/无样式)
 
 @author Meng G. <gaomeng1900#gmail.com>
+
 @version 1.0.0
+
 @date 2016-04-07
+
 支持 NODE AMD BROWSER WORKER
+
+----------
 
 ### example
 
@@ -35,6 +40,7 @@ loc_1.getCity()
 // 黄浦区
 ```
 
+------------------
 
 ### API
 
@@ -60,6 +66,8 @@ loc_1.getCity()
     省市都选择（非“请选择”选项）后触发的函数，
     参数为当前CityPicker对象，未传入则什么都不发生
 ```
+
+----------
 
 ### Error code
 
