@@ -41,17 +41,24 @@ loc_1.getCity()
 ##### CityPicker (constructor)
 
 ```
-@param ele_province {Element} 省分 select 元素
+@param ele_province {Element} 
+    省分 select 元素
 
-@param ele_city {Element} 城市 select 元素,
+@param ele_city {Element} 
+    城市 select 元素,
 
-@param province {[String]} default:false 默认的省份(省级市)，未传入则为“请选择”
+@param province {[String]} default:false 
+    默认的省份(省级市)，未传入则为“请选择”
 
-@param city {[String]} default:false 默认的城市(市级区)，未传入则为“请选择”
+@param city {[String]} default:false 
+    默认的城市(市级区)，未传入则为“请选择”
 
-@param error {[Function]} default:false 出错时的处理函数，参数为错误说明，默认直接throw
+@param error {[Function]} default:false 
+    出错时的处理函数，参数为错误说明，默认直接throw
 
-@param done {[Function]} default:false 省市都选择（非“请选择”选项）后触发的函数，参数为当前CityPicker对象，未传入则什么都不发生
+@param done {[Function]} default:false 
+    省市都选择（非“请选择”选项）后触发的函数，
+    参数为当前CityPicker对象，未传入则什么都不发生
 ```
 
 ### Error code
