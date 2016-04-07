@@ -21,9 +21,13 @@ js省市联动菜单(无依赖/无样式)
 ```
 
 ```javascript
-var loc_1 = new CityPicker(document.getElementById('slc_province_2'), document.getElementById('slc_city_2'),  '上海', '黄浦区');
+var loc_1 = new CityPicker(document.getElementById('slc_province_2'), 
+                           document.getElementById('slc_city_2'),
+                           '上海', '黄浦区');
 
-var loc_2 = new CityPicker(document.getElementById('slc_province_3'), document.getElementById('slc_city_3'),  '重庆');
+var loc_2 = new CityPicker(document.getElementById('slc_province_3'), 
+                           document.getElementById('slc_city_3'),
+                           '重庆');
 
 loc_1.getProvince()
 // 上海

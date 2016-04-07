@@ -12,10 +12,10 @@
 		<select id="slc_city"></select>
 	</form>
 
-	<form action="">
-		<select id="slc_province_2"></select>
-		<select id="slc_city_2"></select>
-	</form>
+<form action="">
+	<select id="slc_province_2"></select>
+	<select id="slc_city_2"></select>
+</form>
 
 	<form action="">
 		<select id="slc_province_3"></select>
@@ -24,9 +24,17 @@
 
 	<script src="js/cn-citypicker.js"></script>
 	<script>
-		var loc = new CityPicker(document.getElementById('slc_province'), document.getElementById('slc_city'),  '河南', '平顶山');
-		var loc_2 = new CityPicker(document.getElementById('slc_province_2'), document.getElementById('slc_city_2'),  '上海', '黄浦区');
-		var loc_3 = new CityPicker(document.getElementById('slc_province_3'), document.getElementById('slc_city_3'),  '重庆');
+		var loc = new CityPicker(document.getElementById('slc_province'), 
+								 document.getElementById('slc_city'), 
+								 '河南', '平顶山');
+
+		var loc_2 = new CityPicker(document.getElementById('slc_province_2'), 
+								   document.getElementById('slc_city_2'), 
+								   '上海', '黄浦区');
+
+		var loc_3 = new CityPicker(document.getElementById('slc_province_3'), 
+								   document.getElementById('slc_city_3'),
+								   '重庆');
 	</script>
 
 </body>
