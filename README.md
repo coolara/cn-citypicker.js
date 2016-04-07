@@ -51,7 +51,7 @@ loc_1.getCity()
     省分 select 元素
 
 @param ele_city {Element} 
-    城市 select 元素,
+    城市 select 元素
 
 @param province {[String]} default:false 
     默认的省份(省级市)，未传入则为“请选择”
@@ -73,3 +73,4 @@ loc_1.getCity()
 
 - `missing argument: province`: 初始化城市select的option时缺少对应的省份参数
 - `illegal province`: 所选省份不在省份数据中
+- `set province first`: 未设置省份就先设置了城市

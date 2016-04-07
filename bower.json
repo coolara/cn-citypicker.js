@@ -1,0 +1,24 @@
+{
+  "name": "cn-citypicker",
+  "description": "js省市联动菜单(无依赖/无样式)",
+  "main": "index.js",
+  "authors": [
+    "Meng G."
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "省市联动菜单",
+    "location",
+    "picker",
+    "city"
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/gaomeng1900/cn-citypicker.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
