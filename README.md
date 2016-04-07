@@ -40,6 +40,7 @@ loc_1.getCity()
 
 ##### CityPicker (constructor)
 
+```
 @param ele_province {Element} 省分 select 元素
 
 @param ele_city {Element} 城市 select 元素,
@@ -51,10 +52,9 @@ loc_1.getCity()
 @param error {[Function]} default:false 出错时的处理函数，参数为错误说明，默认直接throw
 
 @param done {[Function]} default:false 省市都选择（非“请选择”选项）后触发的函数，参数为当前CityPicker对象，未传入则什么都不发生
-
+```
 
 ### Error code
 
-- missing argument: province: 初始化城市select的option时缺少对应的省份参数
-- illegal province: 所选省份不在省份数据中
-- 
+- `missing argument: province`: 初始化城市select的option时缺少对应的省份参数
+- `illegal province`: 所选省份不在省份数据中
