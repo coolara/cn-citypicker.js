@@ -1,6 +1,6 @@
 {
   "name": "cn-citypicker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "js省市联动菜单(无依赖/无样式)",
   "main": "index.js",
   "scripts": {

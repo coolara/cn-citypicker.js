@@ -3,7 +3,7 @@ js省市联动菜单(无依赖/无样式)
 
 @author Meng G. <gaomeng1900#gmail.com>
 
-@version 1.0.0
+@version 0.1.1
 
 @date 2016-04-07
 
