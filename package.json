@@ -1,0 +1,31 @@
+{
+  "name": "cn-citypicker",
+  "version": "0.1.0",
+  "description": "js省市联动菜单(无依赖/无样式)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaomeng1900/cn-citypicker.js.git"
+  },
+  "keywords": [
+    "省市联动菜单",
+    "location",
+    "picker",
+    "city"
+  ],
+  "author": "Meng G.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gaomeng1900/cn-citypicker.js/issues"
+  },
+  "homepage": "https://github.com/gaomeng1900/cn-citypicker.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
