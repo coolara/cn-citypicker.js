@@ -40,7 +40,7 @@ loc_1.getCity()
 
 ##### CityPicker (constructor)
 
-```
+```javascript
 @param ele_province {Element} 
     省分 select 元素
 
