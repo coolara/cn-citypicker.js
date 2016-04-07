@@ -18,8 +18,7 @@ var CityPicker, _data_location,
       {
         name: "请选择"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "北京",
     sub: [
@@ -64,8 +63,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "广东",
     sub: [
@@ -104,8 +102,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "深圳",
         sub: [
@@ -126,8 +123,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "珠海",
         sub: [
@@ -142,8 +138,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "汕头",
         sub: [
@@ -166,8 +161,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "韶关",
         sub: [
@@ -196,8 +190,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "佛山",
         sub: [
@@ -216,8 +209,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "江门",
         sub: [
@@ -240,8 +232,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "湛江",
         sub: [
@@ -268,8 +259,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "茂名",
         sub: [
@@ -290,8 +280,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "肇庆",
         sub: [
@@ -316,8 +305,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "惠州",
         sub: [
@@ -336,8 +324,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "梅州",
         sub: [
@@ -362,8 +349,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "汕尾",
         sub: [
@@ -380,8 +366,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "河源",
         sub: [
@@ -402,8 +387,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阳江",
         sub: [
@@ -420,8 +404,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "清远",
         sub: [
@@ -446,16 +429,13 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "东莞",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "中山",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "潮州",
         sub: [
@@ -470,8 +450,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "揭阳",
         sub: [
@@ -490,8 +469,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "云浮",
         sub: [
@@ -510,13 +488,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "上海",
     sub: [
@@ -563,8 +539,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "天津",
     sub: [
@@ -609,8 +584,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "重庆",
     sub: [
@@ -699,8 +673,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "辽宁",
     sub: [
@@ -741,8 +714,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "大连",
         sub: [
@@ -771,8 +743,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "鞍山",
         sub: [
@@ -795,8 +766,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "抚顺",
         sub: [
@@ -819,8 +789,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "本溪",
         sub: [
@@ -841,8 +810,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "丹东",
         sub: [
@@ -863,8 +831,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "锦州",
         sub: [
@@ -887,8 +854,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "营口",
         sub: [
@@ -909,8 +875,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阜新",
         sub: [
@@ -933,8 +898,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "辽阳",
         sub: [
@@ -957,8 +921,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "盘锦",
         sub: [
@@ -975,8 +938,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "铁岭",
         sub: [
@@ -999,8 +961,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "朝阳",
         sub: [
@@ -1023,8 +984,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "葫芦岛",
         sub: [
@@ -1045,13 +1005,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "江苏",
     sub: [
@@ -1092,8 +1050,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "苏州",
         sub: [
@@ -1124,8 +1081,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "无锡",
         sub: [
@@ -1150,8 +1106,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "常州",
         sub: [
@@ -1174,8 +1129,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "镇江",
         sub: [
@@ -1196,8 +1150,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "南通",
         sub: [
@@ -1222,8 +1175,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "泰州",
         sub: [
@@ -1244,8 +1196,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "扬州",
         sub: [
@@ -1268,8 +1219,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "盐城",
         sub: [
@@ -1296,8 +1246,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "连云港",
         sub: [
@@ -1320,8 +1269,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "徐州",
         sub: [
@@ -1352,8 +1300,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "淮安",
         sub: [
@@ -1378,8 +1325,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宿迁",
         sub: [
@@ -1398,13 +1344,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "湖北",
     sub: [
@@ -1445,8 +1389,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黄石",
         sub: [
@@ -1467,8 +1410,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "十堰",
         sub: [
@@ -1493,8 +1435,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "荆州",
         sub: [
@@ -1519,8 +1460,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宜昌",
         sub: [
@@ -1555,8 +1495,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "襄樊",
         sub: [
@@ -1583,8 +1522,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "鄂州",
         sub: [
@@ -1599,8 +1537,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "荆门",
         sub: [
@@ -1619,8 +1556,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "孝感",
         sub: [
@@ -1643,8 +1579,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黄冈",
         sub: [
@@ -1673,8 +1608,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "咸宁",
         sub: [
@@ -1695,8 +1629,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "随州",
         sub: [
@@ -1709,8 +1642,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "恩施土家族苗族自治州",
         sub: [
@@ -1735,29 +1667,23 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "仙桃",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "天门",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "潜江",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "神农架林区",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "四川",
     sub: [
@@ -1810,8 +1736,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "自贡",
         sub: [
@@ -1832,8 +1757,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "攀枝花",
         sub: [
@@ -1852,8 +1776,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "泸州",
         sub: [
@@ -1876,8 +1799,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "德阳",
         sub: [
@@ -1898,8 +1820,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "绵阳",
         sub: [
@@ -1926,8 +1847,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "广元",
         sub: [
@@ -1950,8 +1870,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "遂宁",
         sub: [
@@ -1970,8 +1889,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "内江",
         sub: [
@@ -1990,8 +1908,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "乐山",
         sub: [
@@ -2022,8 +1939,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "南充",
         sub: [
@@ -2050,8 +1966,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "眉山",
         sub: [
@@ -2072,8 +1987,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宜宾",
         sub: [
@@ -2102,8 +2016,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "广安",
         sub: [
@@ -2122,8 +2035,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "达州",
         sub: [
@@ -2146,8 +2058,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "雅安",
         sub: [
@@ -2172,8 +2083,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "巴中",
         sub: [
@@ -2190,8 +2100,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "资阳",
         sub: [
@@ -2208,8 +2117,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阿坝藏族羌族自治州",
         sub: [
@@ -2244,8 +2152,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "甘孜藏族自治州",
         sub: [
@@ -2290,8 +2197,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "凉山彝族自治州",
         sub: [
@@ -2334,13 +2240,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "陕西",
     sub: [
@@ -2381,8 +2285,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "铜川",
         sub: [
@@ -2399,8 +2302,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宝鸡",
         sub: [
@@ -2433,8 +2335,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "咸阳",
         sub: [
@@ -2471,8 +2372,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "渭南",
         sub: [
@@ -2503,8 +2403,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "延安",
         sub: [
@@ -2539,8 +2438,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "汉中",
         sub: [
@@ -2571,8 +2469,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "榆林",
         sub: [
@@ -2605,8 +2502,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "安康",
         sub: [
@@ -2635,8 +2531,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "商洛",
         sub: [
@@ -2659,13 +2554,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "河北",
     sub: [
@@ -2726,8 +2619,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "唐山",
         sub: [
@@ -2764,8 +2656,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "秦皇岛",
         sub: [
@@ -2788,8 +2679,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "邯郸",
         sub: [
@@ -2836,8 +2726,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "邢台",
         sub: [
@@ -2884,8 +2773,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "保定",
         sub: [
@@ -2944,8 +2832,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "张家口",
         sub: [
@@ -2988,8 +2875,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "承德",
         sub: [
@@ -3020,8 +2906,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "沧州",
         sub: [
@@ -3062,8 +2947,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "廊坊",
         sub: [
@@ -3092,8 +2976,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "衡水",
         sub: [
@@ -3124,13 +3007,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "山西",
     sub: [
@@ -3165,8 +3046,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "大同",
         sub: [
@@ -3197,8 +3077,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阳泉",
         sub: [
@@ -3217,8 +3096,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "长治",
         sub: [
@@ -3253,8 +3131,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "晋城",
         sub: [
@@ -3275,8 +3152,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "朔州",
         sub: [
@@ -3297,8 +3173,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "晋中",
         sub: [
@@ -3329,8 +3204,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "运城",
         sub: [
@@ -3365,8 +3239,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "忻州",
         sub: [
@@ -3403,8 +3276,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "临汾",
         sub: [
@@ -3447,8 +3319,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "吕梁",
         sub: [
@@ -3483,13 +3354,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "河南",
     sub: [
@@ -3528,8 +3397,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "开封",
         sub: [
@@ -3558,8 +3426,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "洛阳",
         sub: [
@@ -3598,8 +3465,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "平顶山",
         sub: [
@@ -3628,8 +3494,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "安阳",
         sub: [
@@ -3656,8 +3521,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "鹤壁",
         sub: [
@@ -3676,8 +3540,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "新乡",
         sub: [
@@ -3710,8 +3573,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "焦作",
         sub: [
@@ -3740,8 +3602,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "濮阳",
         sub: [
@@ -3762,8 +3623,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "许昌",
         sub: [
@@ -3784,8 +3644,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "漯河",
         sub: [
@@ -3804,8 +3663,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "三门峡",
         sub: [
@@ -3826,8 +3684,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "南阳",
         sub: [
@@ -3862,8 +3719,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "商丘",
         sub: [
@@ -3890,8 +3746,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "信阳",
         sub: [
@@ -3920,8 +3775,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "周口",
         sub: [
@@ -3950,8 +3804,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "驻马店",
         sub: [
@@ -3980,8 +3833,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "焦作",
         sub: [
@@ -3992,13 +3844,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "吉林",
     sub: [
@@ -4033,8 +3883,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "吉林",
         sub: [
@@ -4061,8 +3910,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "四平",
         sub: [
@@ -4083,8 +3931,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "辽源",
         sub: [
@@ -4101,8 +3948,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "通化",
         sub: [
@@ -4125,8 +3971,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "白山",
         sub: [
@@ -4147,8 +3992,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "松原",
         sub: [
@@ -4167,8 +4011,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "白城",
         sub: [
@@ -4187,8 +4030,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "延边朝鲜族自治州",
         sub: [
@@ -4213,13 +4055,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "黑龙江",
     sub: [
@@ -4270,8 +4110,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "齐齐哈尔",
         sub: [
@@ -4312,8 +4151,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "鹤岗",
         sub: [
@@ -4338,8 +4176,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "双鸭山",
         sub: [
@@ -4364,8 +4201,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "鸡西",
         sub: [
@@ -4392,8 +4228,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "大庆",
         sub: [
@@ -4420,8 +4255,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "伊春",
         sub: [
@@ -4464,8 +4298,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "牡丹江",
         sub: [
@@ -4494,8 +4327,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "佳木斯",
         sub: [
@@ -4524,8 +4356,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "七台河",
         sub: [
@@ -4542,8 +4373,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黑河",
         sub: [
@@ -4564,8 +4394,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "绥化",
         sub: [
@@ -4594,8 +4423,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "大兴安岭地区",
         sub: [
@@ -4612,13 +4440,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "内蒙古",
     sub: [
@@ -4651,8 +4477,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "包头",
         sub: [
@@ -4679,8 +4504,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "乌海",
         sub: [
@@ -4695,8 +4519,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "赤峰",
         sub: [
@@ -4729,8 +4552,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "通辽",
         sub: [
@@ -4755,8 +4577,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "鄂尔多斯",
         sub: [
@@ -4781,8 +4602,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "呼伦贝尔",
         sub: [
@@ -4817,8 +4637,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "巴彦淖尔",
         sub: [
@@ -4841,8 +4660,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "乌兰察布",
         sub: [
@@ -4873,8 +4691,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "锡林郭勒盟",
         sub: [
@@ -4907,8 +4724,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "兴安盟",
         sub: [
@@ -4929,8 +4745,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阿拉善盟",
         sub: [
@@ -4945,13 +4760,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "山东",
     sub: [
@@ -4986,8 +4799,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "青岛",
         sub: [
@@ -5020,8 +4832,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "淄博",
         sub: [
@@ -5046,8 +4857,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "枣庄",
         sub: [
@@ -5068,8 +4878,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "东营",
         sub: [
@@ -5088,8 +4897,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "烟台",
         sub: [
@@ -5122,8 +4930,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "潍坊",
         sub: [
@@ -5156,8 +4963,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "济宁",
         sub: [
@@ -5190,8 +4996,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "泰安",
         sub: [
@@ -5212,8 +5017,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "威海",
         sub: [
@@ -5230,8 +5034,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "日照",
         sub: [
@@ -5248,8 +5051,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "莱芜",
         sub: [
@@ -5262,8 +5064,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "临沂",
         sub: [
@@ -5296,8 +5097,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "德州",
         sub: [
@@ -5328,8 +5128,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "聊城",
         sub: [
@@ -5354,8 +5153,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "滨州",
         sub: [
@@ -5378,8 +5176,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "菏泽",
         sub: [
@@ -5406,13 +5203,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "安徽",
     sub: [
@@ -5441,8 +5236,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "芜湖",
         sub: [
@@ -5465,8 +5259,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "蚌埠",
         sub: [
@@ -5489,8 +5282,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "淮南",
         sub: [
@@ -5511,8 +5303,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "马鞍山",
         sub: [
@@ -5529,8 +5320,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "淮北",
         sub: [
@@ -5547,8 +5337,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "铜陵",
         sub: [
@@ -5565,8 +5354,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "安庆",
         sub: [
@@ -5597,8 +5385,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黄山",
         sub: [
@@ -5621,8 +5408,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "滁州",
         sub: [
@@ -5647,8 +5433,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阜阳",
         sub: [
@@ -5673,8 +5458,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宿州",
         sub: [
@@ -5693,8 +5477,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "巢湖",
         sub: [
@@ -5713,8 +5496,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "六安",
         sub: [
@@ -5737,8 +5519,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "亳州",
         sub: [
@@ -5755,8 +5536,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "池州",
         sub: [
@@ -5773,8 +5553,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宣城",
         sub: [
@@ -5797,13 +5576,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "浙江",
     sub: [
@@ -5844,8 +5621,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宁波",
         sub: [
@@ -5876,8 +5652,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "温州",
         sub: [
@@ -5908,8 +5683,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "嘉兴",
         sub: [
@@ -5932,8 +5706,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "湖州",
         sub: [
@@ -5952,8 +5725,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "绍兴",
         sub: [
@@ -5974,8 +5746,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "金华",
         sub: [
@@ -6002,8 +5773,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "衢州",
         sub: [
@@ -6024,8 +5794,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "舟山",
         sub: [
@@ -6042,8 +5811,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "台州",
         sub: [
@@ -6070,8 +5838,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "丽水",
         sub: [
@@ -6098,13 +5865,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "福建",
     sub: [
@@ -6145,8 +5910,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "厦门",
         sub: [
@@ -6167,8 +5931,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "莆田",
         sub: [
@@ -6187,8 +5950,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "三明",
         sub: [
@@ -6221,8 +5983,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "泉州",
         sub: [
@@ -6255,8 +6016,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "漳州",
         sub: [
@@ -6287,8 +6047,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "南平",
         sub: [
@@ -6317,8 +6076,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "龙岩",
         sub: [
@@ -6341,8 +6099,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宁德",
         sub: [
@@ -6369,13 +6126,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "湖南",
     sub: [
@@ -6408,8 +6163,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "株洲",
         sub: [
@@ -6436,8 +6190,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "湘潭",
         sub: [
@@ -6456,8 +6209,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "衡阳",
         sub: [
@@ -6490,8 +6242,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "邵阳",
         sub: [
@@ -6524,8 +6275,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "岳阳",
         sub: [
@@ -6552,8 +6302,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "常德",
         sub: [
@@ -6580,8 +6329,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "张家界",
         sub: [
@@ -6598,8 +6346,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "益阳",
         sub: [
@@ -6620,8 +6367,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "郴州",
         sub: [
@@ -6652,8 +6398,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "永州",
         sub: [
@@ -6684,8 +6429,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "怀化",
         sub: [
@@ -6718,8 +6462,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "娄底",
         sub: [
@@ -6738,8 +6481,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "湘西土家族苗族自治州",
         sub: [
@@ -6764,13 +6506,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "广西",
     sub: [
@@ -6809,8 +6549,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "柳州",
         sub: [
@@ -6839,8 +6578,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "桂林",
         sub: [
@@ -6883,8 +6621,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "梧州",
         sub: [
@@ -6907,8 +6644,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "北海",
         sub: [
@@ -6925,8 +6661,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "防城港",
         sub: [
@@ -6943,8 +6678,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "钦州",
         sub: [
@@ -6961,8 +6695,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "贵港",
         sub: [
@@ -6981,8 +6714,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "玉林",
         sub: [
@@ -7003,8 +6735,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "百色",
         sub: [
@@ -7037,8 +6768,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "贺州",
         sub: [
@@ -7055,8 +6785,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "河池",
         sub: [
@@ -7087,8 +6816,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "来宾",
         sub: [
@@ -7109,8 +6837,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "崇左",
         sub: [
@@ -7133,13 +6860,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "江西",
     sub: [
@@ -7172,8 +6897,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "景德镇",
         sub: [
@@ -7190,8 +6914,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "萍乡",
         sub: [
@@ -7210,8 +6933,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "九江",
         sub: [
@@ -7244,8 +6966,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "新余",
         sub: [
@@ -7258,8 +6979,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "鹰潭",
         sub: [
@@ -7274,8 +6994,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "赣州",
         sub: [
@@ -7320,8 +7039,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "吉安",
         sub: [
@@ -7356,8 +7074,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "宜春",
         sub: [
@@ -7386,8 +7103,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "抚州",
         sub: [
@@ -7418,8 +7134,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "上饶",
         sub: [
@@ -7452,13 +7167,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "贵州",
     sub: [
@@ -7493,8 +7206,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "六盘水",
         sub: [
@@ -7511,8 +7223,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "遵义",
         sub: [
@@ -7549,8 +7260,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "安顺",
         sub: [
@@ -7571,8 +7281,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "铜仁地区",
         sub: [
@@ -7601,8 +7310,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "毕节地区",
         sub: [
@@ -7627,8 +7335,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黔西南布依族苗族自治州",
         sub: [
@@ -7653,8 +7360,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黔东南苗族侗族自治州",
         sub: [
@@ -7695,8 +7401,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黔南布依族苗族自治州",
         sub: [
@@ -7729,13 +7434,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "云南",
     sub: [
@@ -7778,8 +7481,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "曲靖",
         sub: [
@@ -7806,8 +7508,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "玉溪",
         sub: [
@@ -7834,8 +7535,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "保山",
         sub: [
@@ -7854,8 +7554,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "昭通",
         sub: [
@@ -7886,8 +7585,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "丽江",
         sub: [
@@ -7906,8 +7604,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "普洱",
         sub: [
@@ -7936,8 +7633,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "临沧",
         sub: [
@@ -7962,8 +7658,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "德宏傣族景颇族自治州",
         sub: [
@@ -7982,8 +7677,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "怒江傈僳族自治州",
         sub: [
@@ -8000,8 +7694,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "迪庆藏族自治州",
         sub: [
@@ -8016,8 +7709,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "大理白族自治州",
         sub: [
@@ -8050,8 +7742,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "楚雄彝族自治州",
         sub: [
@@ -8080,8 +7771,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "红河哈尼族彝族自治州",
         sub: [
@@ -8116,8 +7806,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "文山壮族苗族自治州",
         sub: [
@@ -8142,8 +7831,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "西双版纳傣族自治州",
         sub: [
@@ -8158,13 +7846,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "西藏",
     sub: [
@@ -8195,8 +7881,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "那曲地区",
         sub: [
@@ -8225,8 +7910,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "昌都地区",
         sub: [
@@ -8257,8 +7941,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "林芝地区",
         sub: [
@@ -8281,8 +7964,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "山南地区",
         sub: [
@@ -8315,8 +7997,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "日喀则地区",
         sub: [
@@ -8361,8 +8042,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阿里地区",
         sub: [
@@ -8385,13 +8065,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "海南",
     sub: [
@@ -8414,8 +8092,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "三亚",
         sub: [
@@ -8426,77 +8103,59 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "五指山",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "琼海",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "儋州",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "文昌",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "万宁",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "东方",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "澄迈县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "定安县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "屯昌县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "临高县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "白沙黎族自治县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "昌江黎族自治县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "乐东黎族自治县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "陵水黎族自治县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "保亭黎族苗族自治县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "琼中黎族苗族自治县",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "甘肃",
     sub: [
@@ -8527,8 +8186,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "嘉峪关",
         sub: [
@@ -8539,8 +8197,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "金昌",
         sub: [
@@ -8553,8 +8210,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "白银",
         sub: [
@@ -8573,8 +8229,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "天水",
         sub: [
@@ -8597,8 +8252,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "武威",
         sub: [
@@ -8615,8 +8269,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "酒泉",
         sub: [
@@ -8639,8 +8292,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "张掖",
         sub: [
@@ -8661,8 +8313,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "庆阳",
         sub: [
@@ -8687,8 +8338,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "平凉",
         sub: [
@@ -8711,8 +8361,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "定西",
         sub: [
@@ -8735,8 +8384,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "陇南",
         sub: [
@@ -8763,8 +8411,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "临夏回族自治州",
         sub: [
@@ -8789,8 +8436,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "甘南藏族自治州",
         sub: [
@@ -8815,13 +8461,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "宁夏",
     sub: [
@@ -8848,8 +8492,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "石嘴山",
         sub: [
@@ -8864,8 +8507,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "吴忠",
         sub: [
@@ -8882,8 +8524,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "固原",
         sub: [
@@ -8902,8 +8543,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "中卫",
         sub: [
@@ -8918,13 +8558,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "青海",
     sub: [
@@ -8953,8 +8591,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "海东地区",
         sub: [
@@ -8975,8 +8612,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "海北藏族自治州",
         sub: [
@@ -8993,8 +8629,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "海南藏族自治州",
         sub: [
@@ -9013,8 +8648,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "黄南藏族自治州",
         sub: [
@@ -9031,8 +8665,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "果洛藏族自治州",
         sub: [
@@ -9053,8 +8686,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "玉树藏族自治州",
         sub: [
@@ -9075,8 +8707,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "海西蒙古族藏族自治州",
         sub: [
@@ -9095,13 +8726,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "新疆",
     sub: [
@@ -9132,8 +8761,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "克拉玛依",
         sub: [
@@ -9150,8 +8778,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "吐鲁番地区",
         sub: [
@@ -9166,8 +8793,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "哈密地区",
         sub: [
@@ -9182,8 +8808,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "和田地区",
         sub: [
@@ -9208,8 +8833,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "阿克苏地区",
         sub: [
@@ -9236,8 +8860,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "喀什地区",
         sub: [
@@ -9270,8 +8893,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "克孜勒苏柯尔克孜自治州",
         sub: [
@@ -9288,8 +8910,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "巴音郭楞蒙古自治州",
         sub: [
@@ -9316,8 +8937,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "昌吉回族自治州",
         sub: [
@@ -9342,8 +8962,7 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "博尔塔拉蒙古自治州",
         sub: [
@@ -9358,24 +8977,19 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "石河子",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "阿拉尔",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "图木舒克",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "五家渠",
-        sub: [],
-        type: 0
+        sub: []
       }, {
         name: "伊犁哈萨克自治州",
         sub: [
@@ -9408,13 +9022,11 @@ var CityPicker, _data_location,
           }, {
             name: "其他"
           }
-        ],
-        type: 0
+        ]
       }, {
         name: "其他"
       }
-    ],
-    type: 1
+    ]
   }, {
     name: "香港",
     sub: [
@@ -9459,8 +9071,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "澳门",
     sub: [
@@ -9485,8 +9096,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "台湾",
     sub: [
@@ -9541,8 +9151,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "海外",
     sub: [
@@ -9551,8 +9160,7 @@ var CityPicker, _data_location,
       }, {
         name: "其他"
       }
-    ],
-    type: 0
+    ]
   }, {
     name: "其他"
   }
